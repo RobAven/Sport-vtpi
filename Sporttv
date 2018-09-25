@@ -1,148 +1,5 @@
 #EXTM3U
-#EXTINF:-1,iptv4sat.com RO: DigiSport 3
-http://5.189.187.55:8000/live/nour/skype/2802.ts
-#EXTINF:-1,RO: Digisport 2
-http://5.189.187.55:8000/live/nour/skype/2801.ts
-#EXTINF:-1,RO: DigiSport 1
-http://5.189.187.55:8000/live/nour/skype/2800.ts
-#EXTINF:-1,IT: Rai Sport + HD
-http://5.189.187.55:8000/live/nour/skype/1524.ts
-#EXTINF:-1,IT: Premium EuroSport 2
-http://5.189.187.55:8000/live/nour/skype/2132.ts
-#EXTINF:-1,IT: Premium EuroSport 1 HD
-http://5.189.187.55:8000/live/nour/skype/2131.ts
-#EXTINF:-1,USA: Bein Sports HD
-http://5.189.187.55:8000/live/nour/skype/2729.ts
-#EXTINF:-1,UK: Sky Sports News HQ
-http://5.189.187.55:8000/live/nour/skype/481.ts
-#EXTINF:-1,UK: Sky Sports F1 HD
-http://5.189.187.55:8000/live/nour/skype/480.ts
-#EXTINF:-1,UK: Sky Sports Premier League
-http://5.189.187.55:8000/live/nour/skype/479.ts
-#EXTINF:-1,UK: Sky Sports Golf
-http://5.189.187.55:8000/live/nour/skype/478.ts
-#EXTINF:-1,UK: Sky Sports Action
-http://5.189.187.55:8000/live/nour/skype/477.ts
-#EXTINF:-1,UK: Sky Sports Cricket
-http://5.189.187.55:8000/live/nour/skype/476.ts
-#EXTINF:-1,UK: Sky Sports Main Event
-http://5.189.187.55:8000/live/nour/skype/475.ts
-#EXTINF:-1,UK: BT Sports 2 HD
-http://5.189.187.55:8000/live/nour/skype/433.ts
-#EXTINF:-1,UK: BT Sports 1
-http://5.189.187.55:8000/live/nour/skype/432.ts
-#EXTINF:-1,UK: iptv4sat.com BT Sport Extra
-http://5.189.187.55:8000/live/nour/skype/2083.ts
-#EXTINF:-1,UK: BT Sport Extra 2
-http://5.189.187.55:8000/live/nour/skype/464.ts
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://5.189.187.55:8000/live/nour/skype/863.ts
-#EXTINF:-1,TR: LIGTV 2 HD
-http://5.189.187.55:8000/live/nour/skype/1994.ts
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://5.189.187.55:8000/live/nour/skype/862.ts
-#EXTINF:-1,TR: LIGTV 1 HD
-http://5.189.187.55:8000/live/nour/skype/1993.ts
-#EXTINF:-1,TR: LIGTV 1
-http://5.189.187.55:8000/live/nour/skype/861.ts
-#EXTINF:-1,TR: LIG TV HD
-http://5.189.187.55:8000/live/nour/skype/2370.ts
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://5.189.187.55:8000/live/nour/skype/2328.ts
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://5.189.187.55:8000/live/nour/skype/2278.ts
-#EXTINF:-1,NO: Viasat Fotboll
-http://5.189.187.55:8000/live/nour/skype/3146.ts
-#EXTINF:-1,NL: Ziggo Sport Voetbal
-http://5.189.187.55:8000/live/nour/skype/2737.ts
-#EXTINF:-1,NL: Ziggo Sport Extra 1
-http://5.189.187.55:8000/live/nour/skype/2366.ts
-#EXTINF:-1,NL: Fox Sports 5 HD
-http://5.189.187.55:8000/live/nour/skype/1728.ts
-#EXTINF:-1,NL: Fox Sports 4 HD
-http://5.189.187.55:8000/live/nour/skype/1727.ts
-#EXTINF:-1,NL: Fox Sports 3 HD
-http://5.189.187.55:8000/live/nour/skype/1726.ts
-#EXTINF:-1,NL: Fox Sports 2 HD
-http://5.189.187.55:8000/live/nour/skype/1725.ts
-#EXTINF:-1,NL: Fox Sports 1 HD
-http://5.189.187.55:8000/live/nour/skype/1724.ts
-#EXTINF:-1,iptv4sat.com FR: L'EQUIPE
-http://5.189.187.55:8000/live/nour/skype/1995.ts
-#EXTINF:-1,FR: Infosport+
-http://5.189.187.55:8000/live/nour/skype/1137.ts
-#EXTINF:-1,FR: Foot+ 24/24
-http://5.189.187.55:8000/live/nour/skype/884.ts
-#EXTINF:-1,FR: EUROSPORT 2 HD
-http://5.189.187.55:8000/live/nour/skype/752.ts
-#EXTINF:-1,FR: EUROSPORT 1 HD
-http://5.189.187.55:8000/live/nour/skype/836.ts
-#EXTINF:-1,FR: BEINSPORT MAX 8
-http://5.189.187.55:8000/live/nour/skype/2128.ts
-#EXTINF:-1,FR: BEINSPORT MAX 7
-http://5.189.187.55:8000/live/nour/skype/2127.ts
-#EXTINF:-1,FR: BEINSPORT MAX 6
-http://5.189.187.55:8000/live/nour/skype/2129.ts
-#EXTINF:-1,FR: BEINSPORT MAX 5
-http://5.189.187.55:8000/live/nour/skype/2126.ts
-#EXTINF:-1,FR: BEINSPORT MAX 4
-http://5.189.187.55:8000/live/nour/skype/2125.ts
-#EXTINF:-1,FR: BEINSPORT 3 HD
-http://5.189.187.55:8000/live/nour/skype/988.ts
-#EXTINF:-1,FR: BEINSPORT 2  HD
-http://5.189.187.55:8000/live/nour/skype/701.ts
-#EXTINF:-1,FR: BEINSPORT 1 HD
-http://5.189.187.55:8000/live/nour/skype/702.ts
-#EXTINF:-1,EX YU: SPORTKLUB 3 HD HR
-http://5.189.187.55:8000/live/nour/skype/2377.ts
-#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
-http://5.189.187.55:8000/live/nour/skype/2376.ts
-#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
-http://5.189.187.55:8000/live/nour/skype/2375.ts
-#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
-http://5.189.187.55:8000/live/nour/skype/674.ts
-#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
-http://5.189.187.55:8000/live/nour/skype/673.ts
-#EXTINF:-1,EX YU: Arena Sport 3 (SR)
-http://5.189.187.55:8000/live/nour/skype/1092.ts
-#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
-http://5.189.187.55:8000/live/nour/skype/1091.ts
-#EXTINF:-1,EX YU: Arena Sport 2 (SR)
-http://5.189.187.55:8000/live/nour/skype/672.ts
-#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
-http://5.189.187.55:8000/live/nour/skype/671.ts
-#EXTINF:-1,EX YU:  Arena Sport 4 (SR)
-http://5.189.187.55:8000/live/nour/skype/1094.ts
-#EXTINF:-1,EX YU:  Arena Sport 1 (SR)
-http://5.189.187.55:8000/live/nour/skype/1095.ts
-#EXTINF:-1,AR: Bein Sports 9 HD
-http://5.189.187.55:8000/live/nour/skype/768.ts
-#EXTINF:-1,AR: Bein Sports 8 HD
-http://5.189.187.55:8000/live/nour/skype/769.ts
-#EXTINF:-1,AR: Bein Sports 7 HD
-http://5.189.187.55:8000/live/nour/skype/770.ts
-#EXTINF:-1,AR: Bein Sports 6 HD
-http://5.189.187.55:8000/live/nour/skype/771.ts
-#EXTINF:-1,AR: Bein Sports 5 HD
-http://5.189.187.55:8000/live/nour/skype/772.ts
-#EXTINF:-1,iptv4sat.com AR: Bein Sports 4 HD
-http://5.189.187.55:8000/live/nour/skype/773.ts
-#EXTINF:-1,AR: Bein Sports 3 HD
-http://5.189.187.55:8000/live/nour/skype/774.ts
-#EXTINF:-1,AR: Bein Sports 2 HD
-http://5.189.187.55:8000/live/nour/skype/775.ts
-#EXTINF:-1,AR: Bein Sports 12 HD
-http://5.189.187.55:8000/live/nour/skype/776.ts
-#EXTINF:-1,AR: Bein Sports 11 HD
-http://5.189.187.55:8000/live/nour/skype/777.ts
-#EXTINF:-1,AR: Bein Sports 10 HD
-http://5.189.187.55:8000/live/nour/skype/778.ts
-#EXTINF:-1,AR: Bein Sports 1 HD
-http://5.189.187.55:8000/live/nour/skype/779.ts
-#EXTINF:-1,AR: Bein Sports 1
-http://5.189.187.55:8000/live/nour/skype/2470.ts
-
-#EXTINF:-1,iptv4sat.com TR | beIN SPORTS HD 1 SD
+#EXTINF:-1,iptv2list.com TR | beIN SPORTS HD 1 SD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/11.ts
 #EXTINF:-1,TR | beIN SPORTS  1
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/512.ts
@@ -270,7 +127,7 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1454.ts
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1457.ts
 #EXTINF:-1,UK | SKY SPORTS 3 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1456.ts
-#EXTINF:-1,iptv4sat.com UK | SKY SPORTS 4 HD
+#EXTINF:-1,iptv2list.com UK | SKY SPORTS 4 HD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1455.ts
 #EXTINF:-1,UK | Sky Sports Arena FHD
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/1458.ts
@@ -326,7 +183,188 @@ http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/4298.ts
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/4297.ts
 #EXTINF:-1,AL | SUPER SPORTS 4
 http://yeni.mars3000.net:25461/live/salihakdogan/7zJNLVnNTk/4296.ts
-
+#EXTINF:-1,TR: Turkish Bein Sports 1
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/451.ts
+#EXTINF:-1,FR: beIN SPORTS1 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/447.ts
+#EXTINF:-1,FR: beIN SPORTS 2HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/446.ts
+#EXTINF:-1,FR: beIN SPORTS 3HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/448.ts
+#EXTINF:-1,FR: Bein Sport Max 6
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/443.ts
+#EXTINF:-1,FR: Bein Sport Max 7
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/442.ts
+#EXTINF:-1,FR: Bein Sport Max 8
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/441.ts
+#EXTINF:-1,FR: Bein Sport Max 9
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/440.ts
+#EXTINF:-1,AR: beIN SPorts
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/486.ts
+#EXTINF:-1,AR: beIN Sports 1 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/485.ts
+#EXTINF:-1,AR: beIN Sports 2 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/476.ts
+#EXTINF:-1,AR: beIN Sports 3 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/475.ts
+#EXTINF:-1,AR: beIN Sports 4 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/474.ts
+#EXTINF:-1,AR: beIN Sports 5 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/473.ts
+#EXTINF:-1,AR: beIN Sports 6 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/472.ts
+#EXTINF:-1,AR: beIN Sports 7 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/471.ts
+#EXTINF:-1,AR: beIN Sports 8 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/470.ts
+#EXTINF:-1,AR: beIN Sports 9 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/469.ts
+#EXTINF:-1,AR: beIN Sports 10 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/484.ts
+#EXTINF:-1,AR: beIN Sports 11 HD
+http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/483.ts
+#EXTINF:-1,iptv2list.com RO: DigiSport 3
+http://5.189.187.55:8000/live/nour/skype/2802.ts
+#EXTINF:-1,RO: Digisport 2
+http://5.189.187.55:8000/live/nour/skype/2801.ts
+#EXTINF:-1,RO: DigiSport 1
+http://5.189.187.55:8000/live/nour/skype/2800.ts
+#EXTINF:-1,IT: Rai Sport + HD
+http://5.189.187.55:8000/live/nour/skype/1524.ts
+#EXTINF:-1,IT: Premium EuroSport 2
+http://5.189.187.55:8000/live/nour/skype/2132.ts
+#EXTINF:-1,IT: Premium EuroSport 1 HD
+http://5.189.187.55:8000/live/nour/skype/2131.ts
+#EXTINF:-1,USA: Bein Sports HD
+http://5.189.187.55:8000/live/nour/skype/2729.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://5.189.187.55:8000/live/nour/skype/481.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://5.189.187.55:8000/live/nour/skype/480.ts
+#EXTINF:-1,UK: Sky Sports Premier League
+http://5.189.187.55:8000/live/nour/skype/479.ts
+#EXTINF:-1,UK: Sky Sports Golf
+http://5.189.187.55:8000/live/nour/skype/478.ts
+#EXTINF:-1,UK: Sky Sports Action
+http://5.189.187.55:8000/live/nour/skype/477.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://5.189.187.55:8000/live/nour/skype/476.ts
+#EXTINF:-1,UK: Sky Sports Main Event
+http://5.189.187.55:8000/live/nour/skype/475.ts
+#EXTINF:-1,UK: BT Sports 2 HD
+http://5.189.187.55:8000/live/nour/skype/433.ts
+#EXTINF:-1,UK: BT Sports 1
+http://5.189.187.55:8000/live/nour/skype/432.ts
+#EXTINF:-1,UK: BT Sport Extra
+http://5.189.187.55:8000/live/nour/skype/2083.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://5.189.187.55:8000/live/nour/skype/464.ts
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://5.189.187.55:8000/live/nour/skype/863.ts
+#EXTINF:-1,TR: LIGTV 2 HD
+http://5.189.187.55:8000/live/nour/skype/1994.ts
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://5.189.187.55:8000/live/nour/skype/862.ts
+#EXTINF:-1,TR: LIGTV 1 HD
+http://5.189.187.55:8000/live/nour/skype/1993.ts
+#EXTINF:-1,TR: LIGTV 1
+http://5.189.187.55:8000/live/nour/skype/861.ts
+#EXTINF:-1,TR: LIG TV HD
+http://5.189.187.55:8000/live/nour/skype/2370.ts
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://5.189.187.55:8000/live/nour/skype/2328.ts
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://5.189.187.55:8000/live/nour/skype/2278.ts
+#EXTINF:-1,NO: Viasat Fotboll
+http://5.189.187.55:8000/live/nour/skype/3146.ts
+#EXTINF:-1,NL: Ziggo Sport Voetbal
+http://5.189.187.55:8000/live/nour/skype/2737.ts
+#EXTINF:-1,NL: Ziggo Sport Extra 1
+http://5.189.187.55:8000/live/nour/skype/2366.ts
+#EXTINF:-1,NL: Fox Sports 5 HD
+http://5.189.187.55:8000/live/nour/skype/1728.ts
+#EXTINF:-1,NL: Fox Sports 4 HD
+http://5.189.187.55:8000/live/nour/skype/1727.ts
+#EXTINF:-1,NL: Fox Sports 3 HD
+http://5.189.187.55:8000/live/nour/skype/1726.ts
+#EXTINF:-1,NL: Fox Sports 2 HD
+http://5.189.187.55:8000/live/nour/skype/1725.ts
+#EXTINF:-1,NL: Fox Sports 1 HD
+http://5.189.187.55:8000/live/nour/skype/1724.ts
+#EXTINF:-1,iptv4sat.com FR: L'EQUIPE
+http://5.189.187.55:8000/live/nour/skype/1995.ts
+#EXTINF:-1,FR: Infosport+
+http://5.189.187.55:8000/live/nour/skype/1137.ts
+#EXTINF:-1,FR: Foot+ 24/24
+http://5.189.187.55:8000/live/nour/skype/884.ts
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://5.189.187.55:8000/live/nour/skype/752.ts
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://5.189.187.55:8000/live/nour/skype/836.ts
+#EXTINF:-1,FR: BEINSPORT MAX 8
+http://5.189.187.55:8000/live/nour/skype/2128.ts
+#EXTINF:-1,FR: BEINSPORT MAX 7
+http://5.189.187.55:8000/live/nour/skype/2127.ts
+#EXTINF:-1,FR: BEINSPORT MAX 6
+http://5.189.187.55:8000/live/nour/skype/2129.ts
+#EXTINF:-1,FR: BEINSPORT MAX 5
+http://5.189.187.55:8000/live/nour/skype/2126.ts
+#EXTINF:-1,FR: BEINSPORT MAX 4
+http://5.189.187.55:8000/live/nour/skype/2125.ts
+#EXTINF:-1,FR: BEINSPORT 3 HD
+http://5.189.187.55:8000/live/nour/skype/988.ts
+#EXTINF:-1,FR: BEINSPORT 2  HD
+http://5.189.187.55:8000/live/nour/skype/701.ts
+#EXTINF:-1,FR: BEINSPORT 1 HD
+http://5.189.187.55:8000/live/nour/skype/702.ts
+#EXTINF:-1,EX YU: SPORTKLUB 3 HD HR
+http://5.189.187.55:8000/live/nour/skype/2377.ts
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
+http://5.189.187.55:8000/live/nour/skype/2376.ts
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
+http://5.189.187.55:8000/live/nour/skype/2375.ts
+#EXTINF:-1,EX YU: Arena Sport 4 HD (HR)
+http://5.189.187.55:8000/live/nour/skype/674.ts
+#EXTINF:-1,EX YU: Arena Sport 3 HD (HR)
+http://5.189.187.55:8000/live/nour/skype/673.ts
+#EXTINF:-1,EX YU: Arena Sport 3 (SR)
+http://5.189.187.55:8000/live/nour/skype/1092.ts
+#EXTINF:-1,EX YU: Arena Sport 2 HD (HR)
+http://5.189.187.55:8000/live/nour/skype/1091.ts
+#EXTINF:-1,EX YU: Arena Sport 2 (SR)
+http://5.189.187.55:8000/live/nour/skype/672.ts
+#EXTINF:-1,EX YU: Arena Sport 1 HD (HR)
+http://5.189.187.55:8000/live/nour/skype/671.ts
+#EXTINF:-1,EX YU:  Arena Sport 4 (SR)
+http://5.189.187.55:8000/live/nour/skype/1094.ts
+#EXTINF:-1,EX YU:  Arena Sport 1 (SR)
+http://5.189.187.55:8000/live/nour/skype/1095.ts
+#EXTINF:-1,AR: Bein Sports 9 HD
+http://5.189.187.55:8000/live/nour/skype/768.ts
+#EXTINF:-1,AR: Bein Sports 8 HD
+http://5.189.187.55:8000/live/nour/skype/769.ts
+#EXTINF:-1,AR: Bein Sports 7 HD
+http://5.189.187.55:8000/live/nour/skype/770.ts
+#EXTINF:-1,AR: Bein Sports 6 HD
+http://5.189.187.55:8000/live/nour/skype/771.ts
+#EXTINF:-1,AR: Bein Sports 5 HD
+http://5.189.187.55:8000/live/nour/skype/772.ts
+#EXTINF:-1,iptv2list.com AR: Bein Sports 4 HD
+http://5.189.187.55:8000/live/nour/skype/773.ts
+#EXTINF:-1,AR: Bein Sports 3 HD
+http://5.189.187.55:8000/live/nour/skype/774.ts
+#EXTINF:-1,AR: Bein Sports 2 HD
+http://5.189.187.55:8000/live/nour/skype/775.ts
+#EXTINF:-1,AR: Bein Sports 12 HD
+http://5.189.187.55:8000/live/nour/skype/776.ts
+#EXTINF:-1,AR: Bein Sports 11 HD
+http://5.189.187.55:8000/live/nour/skype/777.ts
+#EXTINF:-1,AR: Bein Sports 10 HD
+http://5.189.187.55:8000/live/nour/skype/778.ts
+#EXTINF:-1,AR: Bein Sports 1 HD
+http://5.189.187.55:8000/live/nour/skype/779.ts
+#EXTINF:-1,AR: Bein Sports 1
+http://5.189.187.55:8000/live/nour/skype/2470.ts
 #EXTINF:-1,Backup | beIN Sports 1 SD
 http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3266.ts
 #EXTINF:-1,Backup | beIN Sports 2 SD
@@ -425,48 +463,6 @@ http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3346.ts
 http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3347.ts
 #EXTINF:-1,ARENA SPORT 4 low
 http://man-iptv.spdns.de:8000/live/man.iptv2018/man.iptv1312/3348.ts
-
-#EXTINF:-1,TR: Turkish Bein Sports 1
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/451.ts
-#EXTINF:-1,FR: beIN SPORTS1 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/447.ts
-#EXTINF:-1,FR: beIN SPORTS 2HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/446.ts
-#EXTINF:-1,FR: beIN SPORTS 3HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/448.ts
-#EXTINF:-1,FR: Bein Sport Max 6
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/443.ts
-#EXTINF:-1,FR: Bein Sport Max 7
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/442.ts
-#EXTINF:-1,FR: Bein Sport Max 8
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/441.ts
-#EXTINF:-1,FR: Bein Sport Max 9
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/440.ts
-#EXTINF:-1,AR: beIN SPorts
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/486.ts
-#EXTINF:-1,AR: beIN Sports 1 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/485.ts
-#EXTINF:-1,AR: beIN Sports 2 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/476.ts
-#EXTINF:-1,AR: beIN Sports 3 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/475.ts
-#EXTINF:-1,AR: beIN Sports 4 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/474.ts
-#EXTINF:-1,AR: beIN Sports 5 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/473.ts
-#EXTINF:-1,AR: beIN Sports 6 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/472.ts
-#EXTINF:-1,AR: beIN Sports 7 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/471.ts
-#EXTINF:-1,AR: beIN Sports 8 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/470.ts
-#EXTINF:-1,AR: beIN Sports 9 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/469.ts
-#EXTINF:-1,AR: beIN Sports 10 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/484.ts
-#EXTINF:-1,AR: beIN Sports 11 HD
-http://54.36.61.6:8000/live/BeinSports2409/Busjsu_j/483.ts
-
 #EXTINF:-1,plus-bx6_360p
 http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1859.ts
 #EXTINF:-1,plus-bx6_240p
@@ -561,3 +557,150 @@ http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1861.ts
 http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1154.ts
 #EXTINF:-1,TV3LPC- AD Sports 1
 http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1153.ts
+#EXTM3U
+#EXTINF:-1,UK: Sky Sports Premier League
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/128.ts
+#EXTINF:-1,UK: SKY SPORTS MIX HD
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/126.ts
+#EXTINF:-1,UK: SKY SPORTS MAIN EVENT HD
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/125.ts
+#EXTINF:-1,UK: Sky Sports HD F1
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/120.ts
+#EXTINF:-1,UK: Sky Sports HD Action
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/118.ts
+#EXTINF:-1,UK:SKY SPORTS GOLF
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/116.ts
+#EXTINF:-1,UK: SKY SPORTS FOOTBALL HD
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/115.ts
+#EXTINF:-1,UK: Sky Sports Cricket
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/112.ts
+#EXTINF:-1,UK: SKY SPORTS ARENA HD
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/111.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/108.ts
+#EXTINF:-1,Star Sports 1 LQ
+http://54.36.61.6:8000/live/SkySports_UK/SKySpOrT_S/2.ts
+ 
+#EXTINF:-1,Sport TV
+http://144.217.72.121:8000/live/nova1764/a1764/844.ts
+#EXTINF:-1,Sportv SD/HD
+http://144.217.72.121:8000/live/nova1764/a1764/1214.ts
+#EXTINF:-1,Sport TV2
+http://144.217.72.121:8000/live/nova1764/a1764/846.ts
+#EXTINF:-1,Sportv 2 SD/HD
+http://144.217.72.121:8000/live/nova1764/a1764/1216.ts
+#EXTINF:-1,Sport TV3
+http://144.217.72.121:8000/live/nova1764/a1764/845.ts
+#EXTINF:-1,Sportv 3 SD/HD
+http://144.217.72.121:8000/live/nova1764/a1764/1215.ts
+#EXTINF:-1,Premiere Clubes
+http://144.217.72.121:8000/live/nova1764/a1764/860.ts
+#EXTINF:-1,Premiere 2
+http://144.217.72.121:8000/live/nova1764/a1764/802.ts
+#EXTINF:-1,Premiere 3
+http://144.217.72.121:8000/live/nova1764/a1764/801.ts
+#EXTINF:-1,Premiere 4
+http://144.217.72.121:8000/live/nova1764/a1764/800.ts
+#EXTINF:-1,Premiere 5
+http://144.217.72.121:8000/live/nova1764/a1764/799.ts
+#EXTINF:-1,Premiere 6
+http://144.217.72.121:8000/live/nova1764/a1764/798.ts
+#EXTINF:-1,PREMIERE 7
+http://144.217.72.121:8000/live/nova1764/a1764/1223.ts
+#EXTINF:-1,PREMIERE 8
+http://144.217.72.121:8000/live/nova1764/a1764/1222.ts
+#EXTINF:-1,PREMIERE 9
+http://144.217.72.121:8000/live/nova1764/a1764/1221.ts
+#EXTM3U
+#EXTINF:-1,plus-bx6_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1859.ts
+#EXTINF:-1,plus-bx6_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1860.ts
+#EXTINF:-1,plus-bx5_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1856.ts
+#EXTINF:-1,plus-bx5_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1857.ts
+#EXTINF:-1,plus-bx5_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1858.ts
+#EXTINF:-1,plus-bx4_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1853.ts
+#EXTINF:-1,plus-bx4_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1854.ts
+#EXTINF:-1,plus-bx4_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1855.ts
+#EXTINF:-1,plus-bx3_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1850.ts
+#EXTINF:-1,plus-bx3_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1851.ts
+#EXTINF:-1,plus-bx3_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1852.ts
+#EXTINF:-1,plus-bx2_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1847.ts
+#EXTINF:-1,plus-bx2_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1848.ts
+#EXTINF:-1,plus-bx2_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1849.ts
+#EXTINF:-1,plus-bx1_480p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1846.ts
+#EXTINF:-1,plus-bx1_360p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1844.ts
+#EXTINF:-1,plus-bx1_240p
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1845.ts
+#EXTINF:-1,WWS-skyspremierleague
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1838.ts
+#EXTINF:-1,WWS-skysmainevent
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1834.ts
+#EXTINF:-1,WWS-skysgolf
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1837.ts
+#EXTINF:-1,WWS-skysfootball
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1840.ts
+#EXTINF:-1,WWS-skyscricket
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1835.ts
+#EXTINF:-1,WWS-skysarena
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1839.ts
+#EXTINF:-1,WWS-skysaction
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1836.ts
+#EXTINF:-1,WWS-BEIN9
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1831.ts
+#EXTINF:-1,WWS-BEIN8
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1830.ts
+#EXTINF:-1,WWS-BEIN7
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1829.ts
+#EXTINF:-1,wws-bein4
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1828.ts
+#EXTINF:-1,WWS-BEIN11
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1833.ts
+#EXTINF:-1,WWS-BEIN10
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1832.ts
+#EXTINF:-1,wws-bein5
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1708.ts
+#EXTINF:-1,Youtube - dmc Drama
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1585.ts
+#EXTINF:-1,wws-bein3
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1706.ts
+#EXTINF:-1,wws-bein2
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1705.ts
+#EXTINF:-1,wws-bein1
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1707.ts
+#EXTINF:-1,WWS-BEIN6
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1639.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 1-LOW
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1579.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 6-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1575.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 4-LOW
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1578.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 3-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1577.ts
+#EXTINF:-1,TV3LPC-BEIN SPORT 2-low
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1576.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 4
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1373.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 3
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1372.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 2
+http://tv3lpc.cf:8080/live/tv3lpc-user1/kVT9a1545sf3vm4Wssss/1371.ts
+#EXTINF:-1,TV3LPC- ISO-AR-BEIN SPORT 1
+
+
+
